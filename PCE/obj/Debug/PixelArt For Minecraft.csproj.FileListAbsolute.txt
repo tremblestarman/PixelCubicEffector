@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\PixelArt For Minecraft\bin\Debug\PixelArt For Minecraft.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\PixelArt For Minecraft\bin\Debug\PixelArt For Minecraft.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\PixelArt For Minecraft\bin\Debug\PixelArt For Minecraft.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\PixelArt For Minecraft\obj\Debug\PixelArt For Minecraft.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\PixelArt For Minecraft\obj\Debug\PixelArt For Minecraft.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\PixelArt For Minecraft\obj\Debug\PixelArt For Minecraft.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PixelCubicEffector\PCE\bin\Debug\PixelArt For Minecraft.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PixelCubicEffector\PCE\obj\Debug\PixelArt For Minecraft.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PixelCubicEffector\PCE\obj\Debug\PixelArt For Minecraft.pdb

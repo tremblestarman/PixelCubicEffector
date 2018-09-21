@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PixelCubicEffector\PCE\obj\Debug\PCE.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PixelCubicEffector\PCE\bin\Debug\PCE.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PixelCubicEffector\PCE\bin\Debug\PCE.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PixelCubicEffector\PCE\bin\Debug\PCE.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PixelCubicEffector\PCE\obj\Debug\PCE.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PixelCubicEffector\PCE\obj\Debug\PCE.pdb
